@@ -1,11 +1,23 @@
 baseURL: http://localhost/
 # for xml output
-languageCode: "en-au"
+languageCode: "de-at"
 # for website
-defaultContentLanguage: "en-au"
-title: Seo Inc.
+defaultContentLanguage: "de"
+title: proMusica
 # alternate copyright company text
-copyright: Web Design Inc.
+copyright: proMusica
+# languages
+languages:
+  de:
+    contentDir: content/de
+    languageName: Deutsch
+    menu: main
+    weight: 10
+  en:
+    contentDir: content/en
+    languageName: English
+    menu: main
+    weight: 20
 # controls number of pages displayed on list pages
 paginate: 6
 # controls the summary length on list pages
@@ -19,7 +31,7 @@ markup:
 taxonomies:
   category: categories
 params:
-  slogan: The best in the west
+  slogan: Sound is our Passion
 
   # https://schema.org/Organization
   ## JSON-LD
