@@ -14,11 +14,15 @@
         </li>
         {{ end }}
       </ul>
-      <ul class="navbar-nav">
-        <li class="nav-item">
-          <a href="#" class="nav-link"><span lang="de">{{ partial "allLanguages" . }}</span></a>
-        </li>
-      </ul>     
+      {{/*  Languages  */}}
+      <div class="btn-group">
+        <button class="btn btn-info btn-sm dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+          Languages
+        </button>
+        <ul class="dropdown-menu dropdown-menu-end">
+          <li><button class="dropdown-item" type="button">{{ partial "allLanguages" . }}</button></li>
+        </ul>
+      </div>
     </div>
   </div>
 </nav>
