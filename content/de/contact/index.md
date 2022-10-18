@@ -1,15 +1,16 @@
 ---
-title: "Contact"
+title: "Kontakt"
 date: 2021-12-17T13:31:12+11:00
 draft: false
 menu: main
 weight: 100
 type: contact
 # google map url
-gmapURL: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3314.789243479668!2d151.0872133152887!3d-33.817751523842766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDQ5JzAzLjkiUyAxNTHCsDA1JzIxLjkiRQ!5e0!3m2!1sen!2sau!4v1612097056169!5m2!1sen!2sau" 
+gmapURL: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2659.1747180709394!2d16.4011965!3d48.2032505!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d076a62abfdc9%3A0x8a0a299a1eb28db4!2sB%C3%B6cklinstra%C3%9Fe%20100%2C%201020%20Wien!5e0!3m2!1sde!2sat!4v1666083892017!5m2!1sde!2sat" 
+
 # contact form
 form:
-  title: Send us a Message
+  title: Bitte senden Sie uns eine Nachricht
   id: js-contactForm
   inputs:
   - id: contact-name
