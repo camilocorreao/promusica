@@ -8,7 +8,11 @@
   {{- .Title }} - {{ .Site.Title -}}
   {{- end -}}
 </title>
-<meta name="description" content="{{- with .Description -}}{{- else -}}{{- if .IsPage -}}{{ .Summary }}{{- else -}}{{ .Site.Params.defaultDescription }}{{- end -}}{{- end -}}">
+<meta name="description" content="{{ .Description | default (truncate 145 .Summary) -}}">
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+{{/* <meta name="description" content="{{- with .Description -}}{{- else -}}{{- if .IsPage -}}{{ .Summary }}{{- else -}}{{ .Site.Params.defaultDescription }}{{- end -}}{{- end -}}" */}}
 <script>
 // create a dynamic year and insert into the js-year span
 document.getElementById('js-year').innerHTML = new Date().getFullYear();
