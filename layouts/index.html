@@ -9,7 +9,7 @@
         <div class="col-lg-6 order-lg-first">
           <article>
             <header>
-              <div class="h1">{{ .Params.heading }}</div>
+              <h1>{{ .Params.heading }}</h1>
             </header>            
             <p class="lead">{{ .Content }}</p>
             <div class="d-grid gap-2 d-md-flex">
@@ -37,7 +37,7 @@
         <div class="row">
           <div class="col text-center">
             <header>
-              <div class="h2 fs-1 pb-3">{{ .Params.cardsTitle }}</div>
+              <h2 class="h2 fs-1 pb-3">{{ .Params.cardsTitle }}</h2>
             </header>           
           </div>
         </div>
@@ -49,7 +49,7 @@
                 <img src="{{ .img }}" class="card-img-top img-fluid" alt="{{ .title }}">
                 <div class="card-body">
                   <header>
-                    <div class="h5 card-title">{{ .title }}</div>
+                    <h3 class="h5 card-title">{{ .title }}</h3>
                   </header>
                   <p class="card-text">{{ .text }}</p>
                   {{ with .btn }}
