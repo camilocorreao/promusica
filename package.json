@@ -15,7 +15,8 @@
   },
   "dependencies": {
     "exec-bin": "^1.0.0",
-    "hugo-installer": "^3.1"
+    "hugo": "^0.0.3",
+    "hugo-installer": "^4.0.1"
   },
   "otherDependencies": {
     "hugo": "0.104.3"
@@ -25,5 +26,6 @@
     "url": "github.com/future-wd/course-hugo-seo"
   },
   "author": "Sean Emerson",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {}
 }
