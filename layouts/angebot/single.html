@@ -3,27 +3,27 @@
   <div class="container">
       <div class="row">
         <div class="col">
-          {{ partial "title" . }}
+          {{ partial "title" . -}}
         </div>
       </div>
       <div class="row">
         <div class="col-md-6">
-          {{ with .Params.images }}
-          {{ with index . 0 }}
-          {{ with $.Resources.GetMatch . }}
+          {{- with .Params.images -}}
+          {{- with index . 0 -}}
+          {{- with $.Resources.GetMatch . -}}
           <img src="{{ .RelPermalink }}" alt="" class="img-fluid">
-          {{ end }}
-          {{ end }}
-          {{ end }}
+          {{- end -}}
+          {{- end -}}
+          {{- end -}}
         </div>
         <div class="col-md-6">
           {{ with .Params.price }}
           Price: {{ . }}
-          {{ end }}
+          {{ end -}}
           {{ with .Params.brand }}
           <br>
           Brand: {{ . }}  
-          {{ end }}
+          {{ end -}}
           {{ with .Params.mpn }}
           <br>
           Model Number: {{ . }}  
@@ -73,7 +73,7 @@
     "priceCurrency": "EUR",
     "price": ".Params.price",
     "itemCondition": "https://schema.org/NewCondition",
-    "availablility": "https://schema.org/InStock"
+    "availability": "https://schema.org/InStock"
   }
 }
 </script>
