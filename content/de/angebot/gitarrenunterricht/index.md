@@ -9,9 +9,9 @@ menu:
 - footerAngebot
 weight: 10
 categories: [angebot, unterricht]
-description: Klassic and popular gitarmusic. Technik und Repertoire. Auch Musik die du hörst und spielen wills ist für sehr wichtig!
+description: Klassische und populäre Musik für Gitarre. Technik und Repertoire. Auch Musik die du hörst und spielen wills ist für mich geeignet!
 ---
 
-Gitarrenunterricht: Klassic and popular gitarmusic. Technik und Repertoire. Auch Musik die du hörst und spielen wills ist für sehr wichtig!
+Gitarrenunterricht: Klassische und populäre Musik für Gitarre. Technik und Repertoire. Auch Musik die du hörst und spielen wills ist für mich geeignet!
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore illum nam perspiciatis ipsam beatae, excepturi dignissimos, assumenda vero praesentium velit nisi sed est. Aut quo rerum dolore voluptatem officia enim quis. Eligendi ipsum, voluptatibus repudiandae repellendus dignissimos velit. Quae incidunt aperiam quia porro commodi nisi enim voluptates esse ducimus sint.

@@ -31,6 +31,10 @@ markup:
 taxonomies:
   category: categories
 params:
+  twitterSite: "@site_name"
+  TwitterCreator: "@my_account"
+
+
   slogan: Sound is our Passion
 
   # https://schema.org/Organization
