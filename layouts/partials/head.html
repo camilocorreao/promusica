@@ -33,11 +33,12 @@
 {{- end -}}
 {{ template "_internal/twitter_cards.html" . }}
 {{ with .Site.Params.twitterSite -}}
-<meta name="twitter:site" content="@nytimesbits" />
+<meta name="twitter:site" content="{{ . }}" />
 {{ end -}}
 {{ with .Site.Params.twitterCreator -}}
 <meta name="twitter:creator" content="@nickbilton" />
 {{ end -}}
+{{ template "_internal/opengraph.html" . }}
 
 
 {{/* <meta name="description" content="{{- with .Description -}}{{- else -}}{{- if .IsPage -}}{{ .Summary }}{{- else -}}{{ .Site.Params.defaultDescription }}{{- end -}}{{- end -}}" */}}

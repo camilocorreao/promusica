@@ -5,7 +5,8 @@ draft: false
 menu: 
 - main
 - footerLinks
-weight: 10
+- service
+weight: 20
 heading: My first Bootstrap & Hugo Site
 btn1:
   text: Bootstrap 5 Docs

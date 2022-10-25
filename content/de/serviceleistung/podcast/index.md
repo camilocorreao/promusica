@@ -2,9 +2,7 @@
 title: "Podcast"
 date: 2022-10-20T10:32:45+02:00
 draft: false
-menu: 
-- footerAngebot
-weight: 20
+categories: [serviceleistung, podcast]
 ---
 
 Jedes Projekt ist anders. Daher ist es am besten, uns eine Vorstellung davon zu geben, was Sie sich vorstellen, damit wir einen auf Sie zugeschnittenen Vorschlag und eine Kostenkalkulation erstellen können, die Ihnen die effizienteste und kostengünstigste Lösung bietet.

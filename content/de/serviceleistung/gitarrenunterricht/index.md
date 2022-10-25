@@ -1,14 +1,12 @@
 ---
 title: "Gitarrenunterricht"
+linktitle: Gitarrenunterricht
 date: 2022-10-20T10:31:59+02:00
 draft: false
 images:
 - bikes.jpg
 - logo.png
-menu: 
-- footerAngebot
-weight: 10
-categories: [angebot, unterricht]
+categories: [serviceleistung, gitarrenunterricht]
 description: Klassische und populäre Musik für Gitarre. Technik und Repertoire. Auch Musik die du hörst und spielen wills ist für mich geeignet!
 ---
 
