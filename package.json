@@ -14,6 +14,7 @@
     "postinstall": "hugo-installer --version otherDependencies.hugo --extended --destination node_modules/.bin/hugo"
   },
   "dependencies": {
+    "bootstrap": "^5.2.2",
     "exec-bin": "^1.0.0",
     "hugo": "^0.0.3",
     "hugo-installer": "^4.0.1"
@@ -26,6 +27,5 @@
     "url": "github.com/future-wd/course-hugo-seo"
   },
   "author": "Sean Emerson",
-  "license": "ISC",
-  "devDependencies": {}
+  "license": "ISC"
 }
