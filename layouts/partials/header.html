@@ -6,7 +6,6 @@
       {{ $image := $image.Resize "200x" }}
       <img src="{{ $image.RelPermalink }}">
     </a>
-
     {{/*  <a class="navbar-brand" href="#">{{ .Site.Title }}</a>  */}}
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
       aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -27,20 +26,9 @@
           Languages
         </button>
         <ul class="dropdown-menu">
-          <li><a class="dropdown-item" href="#">{{ partial "allLanguages" . -}}</a></li>
+          <li><a class="dropdown-item" href="#">{{- partial "allLanguages" . -}}</a></li>
         </ul>
-      </div>
-
-      <div class="dropdown">
-        <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-          Dropdown link
-        </a>
-      
-        <ul class="dropdown-menu">
-          <li><a class="dropdown-item" href="#">{{ partial "allLanguages" . -}}</a></li>
-        </ul>
-      </div>
-      
+      </div>     
     </div>
   </nav>
   <nav aria-label="breadcrumb">
