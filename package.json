@@ -14,10 +14,13 @@
     "postinstall": "hugo-installer --version otherDependencies.hugo --extended --destination node_modules/.bin/hugo"
   },
   "dependencies": {
+    "autoprefixer": "^10.4.13",
     "bootstrap": "^5.2.2",
     "exec-bin": "^1.0.0",
     "hugo": "^0.0.3",
-    "hugo-installer": "^4.0.1"
+    "hugo-installer": "^4.0.1",
+    "postcss": "^8.4.18",
+    "postcss-cli": "^10.0.0"
   },
   "otherDependencies": {
     "hugo": "0.104.3"
