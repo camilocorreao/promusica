@@ -22,14 +22,25 @@
         {{ end }}
       </ul>
       {{/*  Languages  */}}
-      <div class="btn-group">
+      <div class="dropdown">
         <button class="btn btn-light btn-sm dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
           Languages
         </button>
-        <ul class="dropdown-menu dropdown-menu-end">
-          <li><button class="dropdown-item" type="button">{{ partial "allLanguages" . }}</button></li>
+        <ul class="dropdown-menu">
+          <li><a class="dropdown-item" href="#">{{ partial "allLanguages" . -}}</a></li>
         </ul>
       </div>
+
+      <div class="dropdown">
+        <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          Dropdown link
+        </a>
+      
+        <ul class="dropdown-menu">
+          <li><a class="dropdown-item" href="#">{{ partial "allLanguages" . -}}</a></li>
+        </ul>
+      </div>
+      
     </div>
   </nav>
   <nav aria-label="breadcrumb">
