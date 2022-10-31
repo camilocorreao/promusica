@@ -9,6 +9,7 @@ images:
 categories: [serviceleistung, gitarrenunterricht]
 description: Klassische und populäre Musik für Gitarre. Technik und Repertoire. Auch Musik die du hörst und spielen wills ist für mich geeignet!
 ---
+Description:
 
 Gitarrenunterricht: Klassische und populäre Musik für Gitarre. Technik und Repertoire. Auch Musik die du hörst und spielen wills ist für mich geeignet!
 

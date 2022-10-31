@@ -33,9 +33,11 @@ taxonomies:
 params:
   twitterSite: "@site_name"
   TwitterCreator: "@my_account"
-
-
   slogan: Sound is our Passion
+  image:
+    widths: 
+      default: [400, 600, 800, 1200]
+      shopSingle: [336, 456, 535, 700, 1000]
 
   # https://schema.org/Organization
   ## JSON-LD
