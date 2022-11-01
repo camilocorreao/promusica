@@ -22,6 +22,12 @@ languages:
 paginate: 6
 # controls the summary length on list pages
 summaryLength: 40
+# remove all white spaces when minifying
+minify:
+    tdewolff:
+      html:
+        keepWhitespace: false
+
 # this is required so that Hugo will render markdown to HTML
 markup:
   goldmark:
