@@ -57,8 +57,8 @@ params:
       # hasMap
       url: https://goo.gl/maps/ha3CkTm5muAP3KD9A
       geo: #coordinates 
-      # icon: icons/bootstrap/geo-alt.svg
-      icon: bi bi-geo-alt
+      icon: icons/bootstrap/geo-alt.svg
+      # icon: bi bi-geo-alt
       disable: false
     # postal address is just for contact details display
     # servicePostalAddress:
@@ -70,8 +70,8 @@ params:
 
     openingHours:
     - name: Opening Hours
-      # icon: icons/bootstrap/clock.svg
-      icon: bi bi-clock
+      icon: icons/bootstrap/clock.svg
+      # icon: bi bi-clock
       hours:
       # date is ignored for display and schema
       - day: Montag
@@ -96,8 +96,8 @@ params:
     - name: Phone
       text: (0676) 777 4149
       url: "tel:+61280043293"
-      # icon: icons/bootstrap/phone.svg
-      icon: bi bi-phone
+      icon: icons/bootstrap/telephone.svg
+      # icon: bi bi-phone
       disable: false
     # mobile
     # - text:
@@ -108,8 +108,8 @@ params:
     - name: Email
       text: support@promusica.co
       url: "mailto:test@domain.com"
-      # icon: icons/bootstrap/envelope.svg
-      icon: bi bi-envelope
+      icon: icons/bootstrap/envelope.svg
+      # icon: bi bi-envelope
       disable: false
       desc: Email Address
   # only for contact details display
