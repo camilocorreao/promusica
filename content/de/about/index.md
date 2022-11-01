@@ -8,6 +8,7 @@ menu:
 - main
 - footerLinks
 weight: 20
+private: true
 ---
 
 About from German site:
