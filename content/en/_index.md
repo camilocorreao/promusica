@@ -1,8 +1,40 @@
 ---
-title: "En"
-date: 2022-10-14T17:32:21+02:00
+title: "Studio"
+date: 2021-11-16T23:04:08+11:00
 draft: false
+menu: 
+- main
+- footerLinks
+weight: 10
+heading: Your proMúsica Studio
+btn1:
+  text: Bootstrap 5 Docs
+  url: https://getbootstrap.com/
+btn2:
+  text: Hugo Docs
+  url: https://gohugo.io/
+cardsTitle: Our Services
+cards:
+- title: Card 1 Title
+  img: /img/placeholder1.jpg
+  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto modi placeat corrupti tempora quod quidem praesentium impedit. Rem, sapiente eius?
+  btn:
+    text: Button 1 text
+    url: "#"
+- title: Card 2 Title
+  img: /img/placeholder2.jpg
+  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto modi placeat corrupti tempora quod quidem praesentium impedit. Rem, sapiente eius?
+  btn:
+    text: Button 2 text
+    url: "#"
+- title: Card 3 Title
+  img: /img/placeholder3.jpg
+  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto modi placeat corrupti tempora quod quidem praesentium impedit. Rem, sapiente eius?  Architecto modi placeat corrupti tempora quod quidem praesentium impedit. Rem, sapiente eius?
+  btn:
+    text: Button 3 text
+    url: "#"
 ---
 
-Content of the home english site
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius alias repellat ducimus eaque reiciendis sunt laboriosam nobis, obcaecati iusto eligendi natus dolore! Nihil ipsum eum magni minus iure. Ipsam quas possimus ex maxime, corrupti doloribus ratione dolores cum neque aspernatur vel laborum. Veniam ipsum labore quidem eligendi corporis magni animi.
+I invite you to join the proMúsica Studio. You can book guitar lessons, create your podcast project, book a music recording appointment or book the studio for a rehearsals. Please read more about our services or you mai contact me.
+<br>
+Warm welcome!

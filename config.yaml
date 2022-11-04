@@ -133,15 +133,15 @@ params:
   # foundingDate:
   # foundingLocation:
   # logo
-menu:
-  main:
-  - identifier: serviceleistung
-    name: Serviceleistung
-    title: Serviceleistung
-    url: de/serviceleistung/
-    weight: 1
-  - identifier: gitarrenunterricht
-    name: Gitarrenunterricht
-    parent: serviceleistung
-    url: de/serviceleistung/gitarrenunterricht
-    weight: 2
+# menu:
+#   serviceleistung:
+#   - identifier: serviceleistung
+#     name: Serviceleistung
+#     title: Serviceleistung
+#     url: de/serviceleistung/
+#     weight: 1
+#   - identifier: gitarrenunterricht
+#     name: Gitarrenunterricht
+#     parent: serviceleistung
+#     url: de/serviceleistung/gitarrenunterricht
+#     weight: 2

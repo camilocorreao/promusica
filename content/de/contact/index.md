@@ -5,6 +5,7 @@ draft: false
 menu: 
 - main
 - footerLinks
+- footerKontaktdetails
 weight: 50
 type: contact
 # google map url

@@ -1,38 +1,41 @@
 ---
-title: "home"
+title: "Studio"
 date: 2021-11-16T23:04:08+11:00
 draft: false
 menu: 
 - main
 - footerLinks
 - service
-weight: 20
-heading: My first Bootstrap & Hugo Site
+weight: 10
+heading: Ihr proMúsica Studio
 btn1:
   text: Bootstrap 5 Docs
   url: https://getbootstrap.com/
 btn2:
   text: Hugo Docs
   url: https://gohugo.io/
-cardsTitle: Our Services
+cardsTitle: Serviceleistung
 cards:
-- title: Card 1 Title
+- title: Gitarrenunterricht
   img: /img/placeholder1.jpg
   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto modi placeat corrupti tempora quod quidem praesentium impedit. Rem, sapiente eius?
   btn:
-    text: Button 1 text
+    text: Gitarrenunterricht buchen
     url: "#"
-- title: Card 2 Title
+- title: Podcast oder Tonaufnahme
   img: /img/placeholder2.jpg
   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto modi placeat corrupti tempora quod quidem praesentium impedit. Rem, sapiente eius?
   btn:
-    text: Button 2 text
+    text: Buchen
     url: "#"
-- title: Card 3 Title
+- title: Studio für Musikproben
   img: /img/placeholder3.jpg
   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto modi placeat corrupti tempora quod quidem praesentium impedit. Rem, sapiente eius?  Architecto modi placeat corrupti tempora quod quidem praesentium impedit. Rem, sapiente eius?
   btn:
-    text: Button 3 text
+    text: Buchen
     url: "#"
 ---
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis quod autem ullam illum dicta perferendis, quaerat dolore sunt, soluta incidunt, repellat aspernatur maxime. Dignissimos quibusdam voluptas, ipsam iusto, quo maxime earum officiis optio consequatur fugit voluptatem nobis error sed natus, voluptatum eveniet expedita aliquam id reiciendis molestiae necessitatibus accusantium impedit?
+
+Ich lade Sie ein bei proMúsica Studio mitzumachen. Sie können bei mir Gitarrenunterricht bekommen, Ihr Podcast Vorhaben realisieren, eine Tonaufnahme-Termin reservieren oder das Studio für Musikproben buchen. Bitte informieren Sie sich hier im Detail über unsere Serviceleistung oder kontaktieren Sie mich.
+<br> 
+Herzlich willkommen!

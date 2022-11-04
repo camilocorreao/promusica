@@ -1,7 +1,7 @@
 <div class="container"> 
 <div class="container-fluid mt-3">
   <div class="row bg-dark text-light pt-3">
-    <div class="col-md-3">
+    <div class="col-6 col-md-3">
       <h5>Site Links</h5>
       <ul class="list-unstyled">
         {{ range .Site.Menus.footerLinks }}
@@ -11,7 +11,7 @@
         {{ end }}
       </ul>
     </div>
-    <div class="col-md-3">
+    <div class="col-6 col-md-3">
       <h5>Shop Categories</h5>
       <ul class="list-unstyled">
         {{ range .Site.Taxonomies.categories }}
@@ -21,11 +21,11 @@
         {{ end }}
       </ul>
     </div>
-    <div class="col-md-3">
+    <div class="col-6 col-md-3">
       {{/*  Services  */}}
-      <h5>Angebot</h5>
+      <h5>Serviceleistung</h5>
       <ul class="list-unstyled">
-        {{ range .Site.Menus.footerAngebot }}
+        {{ range .Site.Menus.footerServiceleistung }}
         <li>
           <a class="text-decoration-none" href="{{ .URL }}">{{ .Name }}</a>
         </li>
@@ -35,7 +35,7 @@
     <div class="col-6 col-md-3">
       <h5>Kontaktdetails </h5>
       <ul class="list-unstyled">
-        {{ range .Site.Menus.footerAngebot }}
+        {{ range .Site.Menus.footerKontaktdetails }}
         <li>
           <a class="text-decoration-none" href="{{ .URL }}">{{ .Name }}</a>
         </li>
