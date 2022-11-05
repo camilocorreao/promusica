@@ -18,6 +18,11 @@ languages:
     languageName: English
     menu: main
     weight: 20
+  es:
+    contentDir: content/es
+    languageName: Espanol
+    menu: main
+    weight: 30
 # controls number of pages displayed on list pages
 paginate: 6
 # controls the summary length on list pages
