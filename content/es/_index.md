@@ -6,7 +6,7 @@ menu:
 - main
 - footerLinks
 weight: 10
-heading: proMúsica Studio
+heading: proMúsica
 btn1:
   text: Bootstrap 5 Docs
   url: https://getbootstrap.com/
@@ -35,6 +35,6 @@ cards:
     url: "#"
 ---
 
-Los contendidos de nuestra página en espanol son diferentes. Por una parte presentamos y promovemos profesores de música para clases en línea y ofrecemos información relacionada con la marca de pianos FEURICH la cual representamos para países latinoamericanos. 
+Los contendidos de nuestra página en español son diferentes. Por una parte presentamos y promovemos profesores de música para clases en línea y ofrecemos información relacionada con la marca de pianos FEURICH la cual representamos para países latinoamericanos. 
 <br>
 Cordial bienvenida!

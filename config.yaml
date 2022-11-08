@@ -20,7 +20,7 @@ languages:
     weight: 20
   es:
     contentDir: content/es
-    languageName: Espanol
+    languageName: Español
     menu: main
     weight: 30
 # controls number of pages displayed on list pages

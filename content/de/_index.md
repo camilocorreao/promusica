@@ -5,7 +5,6 @@ draft: false
 menu: 
 - main
 - footerLinks
-- service
 weight: 10
 heading: Ihr proMúsica Studio
 btn1:

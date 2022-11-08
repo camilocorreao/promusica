@@ -33,9 +33,9 @@
       </ul>
     </div>
     <div class="col-6 col-md-3">
-      <h5>Kontaktdetails </h5>
+      <h5>Kontaktdetails</h5>
       <ul class="list-unstyled">
-        {{ range .Site.Menus.footerKontaktdetails }}
+        {{ range .Site.Menus.footerKontaktdetails -}}
         <li>
           <a class="text-decoration-none" href="{{ .URL }}">{{ .Name }}</a>
         </li>
