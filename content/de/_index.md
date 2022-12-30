@@ -17,13 +17,13 @@ cardsTitle: Serviceleistung
 cards:
 - title: Gitarrenunterricht
   img: /img/placeholder1.jpg
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto modi placeat corrupti tempora quod quidem praesentium impedit. Rem, sapiente eius?
+  text: Klassische und populäre Musik für Gitarre. Technik und Repertoire. Auch Musik die du hörst und spielen willst ist für mich geeignet!
   btn:
-    text: Gitarrenunterricht buchen
+    text: Buchen
     url: "#"
 - title: Podcast oder Tonaufnahme
   img: /img/placeholder2.jpg
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto modi placeat corrupti tempora quod quidem praesentium impedit. Rem, sapiente eius?
+  text: Das proMúsica Studio verfügt über eine gute Akustik und hochwertige Mikrofone. Eine gute Akustik hilft dabei, unerwünschte Reflexionen und Echo zu minimieren, wodurch die Aufnahme klarer und reiner klingt. Gute Mikrofone sind ebenfalls wichtig, um ein möglichst realistisches und detailliertes Klangbild zu erzielen.
   btn:
     text: Buchen
     url: "#"

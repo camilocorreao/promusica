@@ -8,4 +8,4 @@ menu:
 weight: 20
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate illo suscipit dignissimos, consectetur distinctio eligendi vitae atque deleniti, obcaecati mollitia dolorum vel voluptatibus sit ex ullam commodi dolor voluptatem dicta id laborum iusto voluptates numquam provident eaque. Vel non doloremque saepe sit, sint, officiis sed facere nulla consectetur atque similique!
+Sie können bei mir Gitarrenunterricht bekommen, Gitarren testen und erwerben, eine Tonaufnahme-Termin reservieren, Ihr Podcast Vorhaben realisieren oder das Studio für Musikproben buchen. Bitte informieren Sie sich hier im Detail über unsere Serviceleistung oder kontaktieren Sie mich.

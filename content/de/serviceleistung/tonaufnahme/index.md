@@ -7,3 +7,4 @@ menu:
 categories: [serviceleistung, recording, aufnehmen]
 ---
 
+Das proMúsica Studio verfügt über eine gute Akustik und hochwertige Mikrofone. Eine gute Akustik hilft dabei, unerwünschte Reflexionen und Echo zu minimieren, wodurch die Aufnahme klarer und reiner klingt. Gute Mikrofone sind ebenfalls wichtig, um ein möglichst realistisches und detailliertes Klangbild zu erzielen.
