@@ -35,6 +35,6 @@ cards:
     url: "#"
 ---
 
-Ich lade Sie ein bei proMúsica Studio mitzumachen. Sie können bei mir Gitarrenunterricht bekommen, Ihr Podcast Vorhaben realisieren, eine Tonaufnahme-Termin reservieren oder das Studio für Musikproben buchen. Bitte informieren Sie sich hier im Detail über unsere Serviceleistung oder kontaktieren Sie mich.
+Ich lade Sie ein bei proMúsica Studio mitzumachen. Sie können bei mir Gitarrenunterricht bekommen, Gitarren testen und erwerben, eine Tonaufnahme-Termin reservieren, Ihr Podcast Vorhaben realisieren oder das Studio für Musikproben buchen. Bitte informieren Sie sich hier im Detail über unsere Serviceleistung oder kontaktieren Sie mich.
 <br> 
 Herzlich willkommen!
