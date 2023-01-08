@@ -35,6 +35,6 @@ cards:
     url: "#"
 ---
 
-Ich lade Sie ein bei proMúsica Studio mitzumachen. Sie können bei mir Gitarrenunterricht bekommen, Gitarren testen und erwerben, eine Tonaufnahme-Termin reservieren, Ihr Podcast Vorhaben realisieren oder das Studio für Musikproben buchen. Bitte informieren Sie sich hier im Detail über unsere Serviceleistung oder kontaktieren Sie mich.
-<br> 
 Herzlich willkommen!
+<br> 
+proMúsica Studio ist ein Ort, an dem man Gitarre lernen, Podcasts aufnehmen, Ton und Video produzieren und als Proberaum nutzen kann. Hier entstehen Musik und Ideen. Hier kannst du auch dein musikalisches Potenzial entfalten und die richtige Gitarre für deine Reise finden
