@@ -54,7 +54,8 @@
                   <p class="card-text">{{ .text }}</p>
                   {{ with .btn }}
                   {{ if and .url .text }}
-                  <a href="{{ .url1 }}" class="btn btn-primary mt-auto">{{ .text }}</a>
+                  {{/*  <a href="{{ .url1 }}" class="btn btn-primary mt-auto">{{ .text }}</a>  */}}
+                  <a role="button" href="{{ .url }}" target="_blank" class="btn btn-lg btn-outline-secondary px-4">{{ .text }}</a>
                   {{ end }}
                   {{ end }}
                 </div>

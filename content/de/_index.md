@@ -17,22 +17,22 @@ cardsTitle: Serviceleistung
 cards:
 - title: Gitarrenunterricht
   img: /img/placeholder1.jpg
-  text: Klassische und populäre Musik für Gitarre. Technik und Repertoire. Auch Musik die du hörst und spielen willst ist für mich geeignet!
+  text: Ich biete Unterricht für Anfänger bis Fortgeschrittene und vermittel Techniken, Übungen, Tagesabläufe und ein umfangreiches Repertoire. Das proMusica Studio bietet eine Reihe von Möglichkeiten, deine Fähigkeiten zu verbessern, einschließlich Aufnahmeoptionen, einer sehr guten Akustik und einem äußerst ruhigen Unterrichtsraum. Komm und starte dein Gitarrenabenteuer bei proMúsica Studio!
   btn:
     text: Buchen
-    url: "#"
+    url: https://promusica.zohobookings.com/#/customer/gitarrenunterricht/
 - title: Podcast oder Tonaufnahme
   img: /img/placeholder2.jpg
   text: Das proMúsica Studio verfügt über eine gute Akustik und hochwertige Mikrofone. Eine gute Akustik hilft dabei, unerwünschte Reflexionen und Echo zu minimieren, wodurch die Aufnahme klarer und reiner klingt. Gute Mikrofone sind ebenfalls wichtig, um ein möglichst realistisches und detailliertes Klangbild zu erzielen.
   btn:
     text: Buchen
     url: "#"
-- title: Studio für Musikproben
+- title: Studio als Proberaum
   img: /img/placeholder3.jpg
   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto modi placeat corrupti tempora quod quidem praesentium impedit. Rem, sapiente eius?  Architecto modi placeat corrupti tempora quod quidem praesentium impedit. Rem, sapiente eius?
   btn:
     text: Buchen
-    url: "#"
+    url: https://promusica.zohobookings.com/#/customer/proberaum/
 ---
 
 Herzlich willkommen!
