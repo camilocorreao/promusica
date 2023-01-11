@@ -2,6 +2,7 @@
 title: "Tonaufnahme"
 date: 2022-10-20T11:30:15+02:00
 draft: false
+weight: 30
 menu: 
 - footerServiceleistung
 categories: [serviceleistung, recording, aufnehmen]

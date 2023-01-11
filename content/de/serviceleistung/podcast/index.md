@@ -2,8 +2,12 @@
 title: "Podcast"
 date: 2022-10-20T10:32:45+02:00
 draft: false
+weight: 20
 menu: 
 - footerServiceleistung
+images:
+- platzholder1.jpg
+- logo.png
 categories: [serviceleistung, podcast]
 ---
 

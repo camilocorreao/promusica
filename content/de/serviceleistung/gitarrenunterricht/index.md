@@ -3,6 +3,7 @@ title: "Gitarrenunterricht"
 linktitle: Gitarrenunterricht
 date: 2022-10-20T10:31:59+02:00
 draft: false
+weight: 10
 menu: 
 - serviceleistung
 - footerServiceleistung
