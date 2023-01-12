@@ -7,8 +7,8 @@ subtitle: Serving the local community since 1999
 menu: 
 - main
 - footerLinks
-weight: 20
-private: true
+weight: 30
+private: false
 ---
 
 About from German site:

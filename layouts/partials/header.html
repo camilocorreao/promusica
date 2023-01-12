@@ -1,58 +1,83 @@
-<div class="container">
-  <nav class="navbar navbar-expand-md navbar-light bg-body">
+<nav class="navbar navbar-expand-lg bg-light">
   <div class="container-fluid">
-    <a class="navbar-brand" href="/">
+    <a class="navbar-brand" href="#">
       {{ $image := resources.Get "images/logo.png" }}
       {{ $image := $image.Resize "200x" }}
       <img src="{{ $image.RelPermalink }}">
     </a>
-    {{/*  <a class="navbar-brand" href="#">{{ .Site.Title }}</a>  */}}
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
-      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" 
+      data-bs-toggle="collapse" 
+      data-bs-target="#navbarSupportedContent" 
+      aria-controls="navbarSupportedContent" 
+      aria-expanded="false" 
+      aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        {{ range .Site.Menus.main }}  
-        <li class="nav-item">
-          <a class="nav-link{{ if $.IsMenuCurrent "main" . }} active" aria-current="page{{ end }}" 
-          href="{{ .URL }}" {{ if eq .Params.blank true }} target="_blank" rel="noopener"{{ end }}>{{ .Name }}</a>
-        </li>
-        {{ end }}
+        {{ range .Site.Menus.main }}
+          {{ if .HasChildren }}
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle{{ if $.HasMenuCurrent "main" . }} active{{ end }}" 
+                href="#" 
+                role="button" 
+                data-bs-toggle="dropdown" 
+                aria-expanded="false">
+                {{ .Pre }}<span>{{ .Name }}</span>{{ .Post }}
+              </a>
+              <ul class="dropdown-menu">
+                {{ range .Children }}
+                  {{ if eq .Params.divider true }}
+                  <li><hr class="dropdown-divider"></li>
+                  {{ else }}
+                    <li>
+                      <a class="dropdown-item{{ if $.IsMenuCurrent "main" . }} active" aria-current="page{{ end }}" 
+                        href="{{ .URL }}">
+                        {{ .Pre }}<span>{{ .Name }}</span>{{ .Post }}
+                        </a>
+                    </li>
+                  {{ end }}
+                {{ end }}
+              </ul>
+            </li>
+            {{ else }}
+            <li class="nav-item">
+              <a class="nav-link{{ if $.IsMenuCurrent "main" . }} active" aria-current="page{{ end }}" 
+              href="{{ .URL }}">
+                {{ .Pre }}<span>{{ .Name }}</span>{{ .Post }}
+              </a>
+            </li>
+            {{ end }}
+          {{ end }}
       </ul>
-      {{/*  Languages  */}}       
+      <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+   {{/*  Languages  */}}       
        
-      <div class="btn-group">
-        <button type="button" class="btn btn-secondary">Languages</button>
-        <button type="button" class="btn btn-warning dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false"></button>
-      
-        <ul class="dropdown-menu">
-          <li><a class="dropdown-item" href="#">{{- partial "allLanguages" . -}}</a></li>
-        </ul>
-      </div>
-         
-      {{/*  <div class="dropdown">
-        <button class="btn btn-light btn-sm dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-          Languages
-        </button>
-        <ul class="dropdown-menu">
-          <li><a class="dropdown-item" href="#">{{ partial "allLanguages" . }}</a></li>
-        </ul>
-      </div>       */}}
-    </div>
-  </nav>
-  <nav aria-label="breadcrumb">
-    <div class="container-fluid">
-      <ol class="breadcrumb">
-      {{- define "partials/inline/breadcrumb" -}}
-        {{- with .Parent }}
-          {{- partial "inline/breadcrumb" . }}
-          <li class="breadcrumb-item"><a href="{{ .RelPermalink }}">{{ .Title | humanize | title }}</a></li>
-        {{- end -}}
+    <div class="btn-group">
+      <button type="button" class="btn btn-secondary">Languages</button>
+      <button type="button" class="btn btn-warning dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false"></button>
+    
+      <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="#">{{- partial "allLanguages" . -}}</a></li>
+      </ul>
+    </div> 
+  </div>
+</nav>
+<nav aria-label="breadcrumb">
+  <div class="container-fluid">
+    <ol class="breadcrumb">
+    {{- define "partials/inline/breadcrumb" -}}
+      {{- with .Parent }}
+        {{- partial "inline/breadcrumb" . }}
+        <li class="breadcrumb-item"><a href="{{ .RelPermalink }}">{{ .Title | humanize | title }}</a></li>
       {{- end -}}
-      {{- partial "inline/breadcrumb" . }}
-        <li class="breadcrumb-item active" aria-current="page">{{ .Title | humanize | title }}</li>
-      </ol>
-    </div>
-  </nav>
-</div>
+    {{- end -}}
+    {{- partial "inline/breadcrumb" . }}
+      <li class="breadcrumb-item active" aria-current="page">{{ .Title | humanize | title }}</li>
+    </ol>
+  </div>
+</nav>
