@@ -20,6 +20,13 @@ languages:
         weight: 40
         params:
           divider: true
+      - identifier: shop
+        name: Shop
+        weight: 60
+      - parent: shop
+        weight: 40
+        params:
+          divider: true
   en:
     contentDir: content/en
     languageName: English
