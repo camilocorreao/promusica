@@ -11,8 +11,15 @@ languages:
   de:
     contentDir: content/de
     languageName: Deutsch
-    menu: main
-    weight: 10
+    menu:
+      main:
+      - identifier: serviceleistung
+        name: Serviceleistung
+        weight: 20
+      - parent: serviceleistung
+        weight: 40
+        params:
+          divider: true
   en:
     contentDir: content/en
     languageName: English
@@ -138,10 +145,7 @@ params:
   # foundingDate:
   # foundingLocation:
   # logo
-# menu:
-#   serviceleistung:
-#   - identifier: serviceleistung
-#     name: Serviceleistung
+
 #     title: Serviceleistung
 #     url: de/serviceleistung/
 #     weight: 1
