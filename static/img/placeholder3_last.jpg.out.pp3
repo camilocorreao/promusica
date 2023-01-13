@@ -66,7 +66,7 @@ TransmissionCurve=1;0;0.5;0.34999999999999998;0.34999999999999998;0.599999999999
 GainTransmissionCurve=1;0;0.10000000000000001;0.34999999999999998;0;0.25;0.25;0.34999999999999998;0.34999999999999998;0.69999999999999996;0.25;0.34999999999999998;0.34999999999999998;1;0.10000000000000001;0;0;
 
 [Local Contrast]
-Enabled=false
+Enabled=true
 Radius=80
 Amount=0.20000000000000001
 Darkness=1
@@ -172,9 +172,9 @@ TemperatureBias=0
 
 [Color appearance]
 Enabled=false
-Degree=90
+Degree=100
 AutoDegree=true
-Degreeout=90
+Degreeout=85
 AutoDegreeout=true
 Surround=Average
 complex=normal
@@ -195,9 +195,9 @@ J-Contrast=0
 Q-Contrast=0
 H-Hue=0
 RSTProtection=0
-AdaptScene=2000
+AdaptScene=2768.4000000000001
 AutoAdapscen=true
-YbScene=18
+YbScene=5
 Autoybscen=true
 SurrSource=false
 Gamut=true
@@ -227,7 +227,7 @@ Threshold=13
 HueCurve=1;0.16666666699999999;0;0.34999999999999998;0.34999999999999998;0.34699999999999998;0;0.34999999999999998;0.34999999999999998;0.51366742600000004;0;0.34999999999999998;0.34999999999999998;0.66894457100000004;0;0.34999999999999998;0.34999999999999998;0.82877752459999998;0.97835991;0.34999999999999998;0.34999999999999998;0.99088838270000001;0;0.34999999999999998;0.34999999999999998;
 
 [Dehaze]
-Enabled=false
+Enabled=true
 Strength=50
 ShowDepthMap=false
 Depth=25
@@ -256,7 +256,7 @@ LCurve=1;0.050000000000000003;0.14999999999999999;0.34999999999999998;0.34999999
 CCCurve=1;0.050000000000000003;0.5;0.34999999999999998;0.34999999999999998;0.34999999999999998;0.050000000000000003;0.34999999999999998;0.34999999999999998;
 
 [EPD]
-Enabled=false
+Enabled=true
 Strength=0.5
 Gamma=1
 EdgeStopping=1.3999999999999999
@@ -270,8 +270,8 @@ Amount=20
 Anchor=50
 
 [Shadows & Highlights]
-Enabled=false
-Highlights=0
+Enabled=true
+Highlights=63
 HighlightTonalWidth=70
 Shadows=0
 ShadowTonalWidth=30
@@ -280,8 +280,8 @@ Lab=false
 
 [Crop]
 Enabled=true
-X=7
-Y=96
+X=0
+Y=0
 W=3840
 H=2562
 FixedRatio=false
@@ -305,18 +305,18 @@ Degree=0
 Amount=0
 
 [LensProfile]
-LcMode=none
+LcMode=lfmanual
 LCPFile=
 UseDistortion=true
 UseVignette=true
 UseCA=false
-LFCameraMake=
-LFCameraModel=
+LFCameraMake=Canon
+LFCameraModel=Canon EOS M50
 LFLens=
 
 [Perspective]
 Method=simple
-Horizontal=0
+Horizontal=25.5
 Vertical=0
 CameraCropFactor=4.0199999999999996
 CameraFocalLength=6.71
@@ -363,13 +363,13 @@ CenterX=0
 CenterY=0
 
 [Resize]
-Enabled=false
-Scale=0.22
+Enabled=true
+Scale=0.17000000000000001
 AppliesTo=Cropped area
 Method=Lanczos
 DataSpecified=3
-Width=900
-Height=900
+Width=640
+Height=427
 LongEdge=900
 ShortEdge=900
 AllowUpscaling=false

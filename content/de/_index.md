@@ -23,13 +23,13 @@ cards:
     url: https://promusica.zohobookings.com/#/customer/gitarrenunterricht/
 - title: Podcast oder Tonaufnahme
   img: /img/placeholder2.jpg
-  text: Das proMúsica Studio verfügt über eine gute Akustik und hochwertige Mikrofone. Eine gute Akustik hilft dabei, unerwünschte Reflexionen und Echo zu minimieren, wodurch die Aufnahme klarer und reiner klingt. Gute Mikrofone sind ebenfalls wichtig, um ein möglichst realistisches und detailliertes Klangbild zu erzielen.
+  text: Erreichen Sie professionelle Podcast-Qualität mit proMusica - dem perfekten Studio für Ihre Aufnahmen. Mit der besten Akustik, hochwertigen Mikrofonen und state-of-the-art Software und Hardware, sorgen wir für eine makellose Klangqualität. In unserem ruhigen Studio können Sie sich voll und ganz auf Ihren Podcast konzentrieren. Lassen Sie sich von unseren erfahrenen Tontechnikern unterstützen und buchen Sie jetzt Ihre Aufnahme bei proMusica
   btn:
     text: Buchen
     url: "#"
 - title: Studio als Proberaum
   img: /img/placeholder3.jpg
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto modi placeat corrupti tempora quod quidem praesentium impedit. Rem, sapiente eius?  Architecto modi placeat corrupti tempora quod quidem praesentium impedit. Rem, sapiente eius?
+  text: Das proMúsica Studio ist ein professioneller Proberaum in ruhiger Lage, ausgestattet mit einem Feurich Flügel 179 Dynamic II und einer hervorragenden Akustik. Es bietet alles für eine ungestörte Probe, von der Küche bis zum Bad. Das Studio befindet sich in unmittelbarer Nähe des Prater, einem schönen Park und ideal für Foto- und Videoaufnahmen. Buchen Sie jetzt unseren Proberaum und bringen Sie Ihre Musik auf das nächste Level.
   btn:
     text: Buchen
     url: https://promusica.zohobookings.com/#/customer/proberaum/
