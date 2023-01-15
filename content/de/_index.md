@@ -8,15 +8,15 @@ menu:
 weight: 10
 heading: Ihr proMúsica Studio
 btn1:
-  text: Bootstrap 5 Docs
-  url: https://getbootstrap.com/
+  text: Referenzen
+  url: https://promusica.co.referenzen/
 btn2:
-  text: Hugo Docs
-  url: https://gohugo.io/
+  text: Technik
+  url: https://promusica.co/referenzen/
 cardsTitle: Serviceleistung
 cards:
 - title: Gitarrenunterricht
-  img: /img/placeholder1.jpg
+  img: /img/gitarrenunterricht.jpg
   text: Ich biete Unterricht für Anfänger bis Fortgeschrittene und vermittel Techniken, Übungen, Tagesabläufe und ein umfangreiches Repertoire. Das proMusica Studio bietet eine Reihe von Möglichkeiten, deine Fähigkeiten zu verbessern, einschließlich Aufnahmeoptionen, einer sehr guten Akustik und einem äußerst ruhigen Unterrichtsraum. Komm und starte dein Gitarrenabenteuer bei proMúsica Studio!
   btn:
     text: Buchen
@@ -37,4 +37,4 @@ cards:
 
 Herzlich willkommen!
 <br> 
-proMúsica Studio ist ein Ort, an dem man Gitarre lernen, Podcasts aufnehmen, Ton und Video produzieren und als Proberaum nutzen kann. Hier entstehen Musik und Ideen. Hier kannst du auch dein musikalisches Potenzial entfalten und die richtige Gitarre für deine Reise finden
+proMúsica Studio ist ein Ort, an dem man Gitarre lernen, Podcasts aufnehmen, Ton und Video produzieren und als Proberaum nutzen kann. Hier entstehen Musik und Ideen. Hier kannst du auch dein musikalisches Potenzial entfalten und die richtige Gitarre für deine Reise finden.

@@ -19,7 +19,7 @@
           {{ $height := mul $width $heightRatio | int }}
           {{ $fill := $value.Fill (printf "%dx%d" $width $height) }}
           <div class="carousel-item{{ if eq $index 0 }} active{{ end }}">
-            <img src="{{ $fill.RelPermalink }}" class="d-block w-100 img-fluid" alt="Slide {{ add $index 1}}">
+            <img src="{{ $fill.RelPermalink }}" class="d-block w-100 img-fluid rounded mx-auto" alt="Slide {{ add $index 1}}">
           </div>
           {{ end }}
         </div>
@@ -32,8 +32,7 @@
           <span class="visually-hidden">Next</span>
         </button>
       </div>
-          {{/*  <img src="/img/bootstrap-themes.png" alt="Bootstrap Themes" class="img-fluid d-block mx-auto">  */}}
-        </div>
+    </div>
         <div class="col-lg-6 order-lg-first">
           <article>
             <header>
@@ -97,7 +96,7 @@
   </div>
   {{/*  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>  */}}
 </section>
-<section>
+{{/*  <section>
 <div class="container">
   <div class="row d-flex justify-content-center">
     <div class="col-lg-9 col-xl-8">
@@ -132,5 +131,5 @@
     </div>
   </div> 
 </div>
-</section>
+</section>  */}}
 {{ end }}
