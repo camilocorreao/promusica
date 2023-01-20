@@ -1,3 +1,4 @@
+<div class="container">
 <nav class="navbar navbar-expand-lg bg-light">
   <div class="container-fluid">
     <a class="navbar-brand me-5" href="#">
@@ -44,16 +45,16 @@
             <li class="nav-item">
               <a class="nav-link{{ if $.IsMenuCurrent "main" . }} active" aria-current="page{{ end }}" 
               href="{{ .URL }}">
-                {{ .Pre }}<span>{{ .Name }}</span>{{ .Post }}
+              {{ .Pre }}<span>{{ .Name }}</span>{{ .Post }}
               </a>
             </li>
             {{ end }}
           {{ end }}
       </ul>
-      <form class="d-flex" role="search">
+      {{/*  <form class="d-flex" role="search">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
         <button class="btn btn-outline-success" type="submit">Search</button>
-      </form>
+      </form>  */}}
     </div>
    {{/*  Languages  */}}       
        
@@ -81,3 +82,4 @@
     </ol>
   </div>
 </nav>
+</div>
