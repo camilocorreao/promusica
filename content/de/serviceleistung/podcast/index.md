@@ -1,5 +1,6 @@
 ---
 title: "Podcast"
+linktitle: Podcast
 date: 2022-10-20T10:32:45+02:00
 draft: false
 menu:
@@ -10,6 +11,10 @@ images:
 - podcast.jpg
 - logo.png
 categories: [serviceleistung, podcast]
+heading: Podcast
+btn1:
+ text: Buchen
+ url: https://promusica.zohobookings.com/#/customer/proberaum/
 ---
 
 Suchen Sie nach dem perfekten Studio für die Realisierung Ihres Podcasts? Dann sind Sie bei proMusica genau richtig! Wir bieten Ihnen die beste Akustik und hochwertige Mikrophone, um Ihre Stimme klar und deutlich zu vermitteln. Unsere state-of-the-art Software und Hardware sorgen für eine makellose Qualität.

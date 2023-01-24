@@ -7,15 +7,19 @@ menu:
     main:
         parent: serviceleistung
         weight: 10
-images:
-- gitarrenunterricht.jpg
-- logo.png
 categories: [serviceleistung, gitarrenunterricht]
-description: Klassische und populäre Musik für Gitarre. Technik und Repertoire. Auch Musik die du hörst und spielen wills ist für mich geeignet!
+description: Klassische und populäre Musik für Gitarre. Technik und Repertoire.
+heading: Gitarrenunterricht
+btn1:
+  text: Buchen
+  url: https://promusica.zohobookings.com/#/customer/gitarrenunterricht/
+btn2:
+  text: Technik
+  url: https://promusica.co/referenzen/
 ---
 
 Ich biete Unterricht für Anfänger bis Fortgeschrittene und vermittel Techniken, Übungen, Tagesabläufe und ein umfangreiches Repertoire.
 
 Das proMusica Studio bietet eine Reihe von Möglichkeiten, deine Fähigkeiten zu verbessern, einschließlich Aufnahmeoptionen, einer sehr guten Akustik und einem äußerst ruhigen Unterrichtsraum. Komm und starte dein Gitarrenabenteuer bei proMusica Studio!
-<!-- shortcode -->
-{{< figure src="/img/gitarrenunterricht.jpg">}}
+
+

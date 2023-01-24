@@ -132,4 +132,16 @@
   </div> 
 </div>
 </section>  */}}
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        {{ $array := (slice "zero" "one" "two" "three" )}}
+        {{ range $elem_index, $elem_val := $array }}
+         {{ $elem_index }} -- {{ $elem_val }} <br>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
 {{ end }}
