@@ -37,4 +37,6 @@ cards:
 
 Herzlich willkommen!
 <br> 
-proMúsica Studio ist ein Ort, an dem man Gitarre lernen, Podcasts aufnehmen, Ton und Video produzieren und als Proberaum nutzen kann. Hier entstehen Musik und Ideen. Hier kannst du auch dein musikalisches Potenzial entfalten und die richtige Gitarre für deine Reise finden.
+proMúsica Studio bietet Musikern, Podcastern und Produzenten einen professionellen Ort zum Aufnehmen, Produzieren von Ton- und Videoinhalten und zu Proben. Ausgestattet mit einem **Feurich Flügel 179 Dynamic II** und einer guten Akustik, bietet das Studio eine ruhige Lage und alle Annehmlichkeiten für die Pause. Instrumentalunterricht wird ebenfalls angeboten. Das Studio ist sehr nah am Prater, dem schönsten grünen Park in Wien und dem erneuerten und verbreiterten Erdberger Steg. Dies ist auch ideal für Foto- und Videoaufnahmen im Freien. Bis Bald! 
+<!-- Links and Cross References - Use of ref and relref -->
+<!-- [Gitarrenunterricht]({{< ref "serviceleistung/gitarrenunterricht" >}} "Gitarrenunterricht") -->

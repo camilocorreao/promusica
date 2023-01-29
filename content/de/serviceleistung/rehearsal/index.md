@@ -14,4 +14,4 @@ btn1:
   url: https://promusica.zohobookings.com/#/customer/proberaum/
 ---
 
- Das proMúsica Studio ist ein professioneller Proberaum in ruhiger Lage, ausgestattet mit einem Feurich Flügel 179 Dynamic II und einer hervorragenden Akustik. Es bietet alles für eine ungestörte Probe, von der Küche bis zum Bad. Das Studio befindet sich in unmittelbarer Nähe des Prater, einem schönen Park und ideal für Foto- und Videoaufnahmen. Buchen Sie jetzt unseren Proberaum und bringen Sie Ihre Musik auf das nächste Level
+Das proMúsica Studio ist ein professioneller Proberaum in ruhiger Lage, ausgestattet mit einem Feurich Flügel 179 Dynamic II und einer hervorragenden Akustik. Es bietet alles für eine ungestörte Probe, von der Küche bis zum Bad. Das Studio befindet sich in unmittelbarer Nähe des Prater, ideal für die Pause. Buchen Sie jetzt unseren Proberaum und bringen Sie Ihre Musik auf das nächste Level.
