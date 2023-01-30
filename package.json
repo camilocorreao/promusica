@@ -31,5 +31,8 @@
     "url": "github.com/future-wd/course-hugo-seo"
   },
   "author": "Sean Emerson",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.33.0"
+  }
 }
