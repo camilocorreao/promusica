@@ -102,8 +102,8 @@ params:
       hours:
       # date is ignored for display and schema
       - day: Montag
-        open: 14:00
-        close: 20:00
+        open: 2021-01-01T14:00:00
+        close: 2021-01-01T20:00:00
       - day: Dienstag
         open: 2021-01-01T14:00:00
         close: 2021-01-01T20:00:00
