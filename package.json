@@ -16,9 +16,9 @@
     "postinstall": "hugo-installer --version otherDependencies.hugo --extended --destination node_modules/.bin/hugo"
   },
   "dependencies": {
+    "@hapi/boom": "^10.0.0",
     "@hapi/hawk": "^8.0.0",
     "autoprefixer": "^10.4.13",
-    "boom": "^7.3.0",
     "bootstrap": "^5.2.3",
     "cryptiles": "^4.1.3",
     "exec-bin": "^1.0.0",
