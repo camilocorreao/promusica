@@ -1,7 +1,7 @@
 {
-  "name": "course-seo-intro",
+  "name": "promusica",
   "version": "1.0.0",
-  "description": "Online course - seo and hugo implementation",
+  "description": "promusica from Online course - seo and hugo implementation",
   "main": "index.js",
   "scripts": {
     "dev": "exec-bin node_modules/.bin/hugo/hugo server --disableFastRender --gc",
