@@ -28,9 +28,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/future-wd/course-hugo-seo"
+    "url": "github.com/camilocorreao/promusica"
   },
-  "author": "Sean Emerson",
+  "author": "Camilo Correa",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.33.0"
