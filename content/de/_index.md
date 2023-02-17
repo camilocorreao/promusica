@@ -25,14 +25,14 @@ cards:
   img: /img/placeholder2.jpg
   text: Erreichen Sie professionelle Podcast-Qualität mit proMusica - dem perfekten Studio für Ihre Aufnahmen. Mit der besten Akustik, hochwertigen Mikrofonen und state-of-the-art Software und Hardware, sorgen wir für eine makellose Klangqualität. In unserem ruhigen Studio können Sie sich voll und ganz auf Ihren Podcast konzentrieren. Lassen Sie sich von unseren erfahrenen Tontechnikern unterstützen und buchen Sie jetzt Ihre Aufnahme bei proMusica
   btn:
-    text: Buchen
-    url: "#"
+    text: Kontakt
+    url: "/contact"
 - title: Studio als Proberaum
   img: /img/placeholder3.jpg
   text: Das proMúsica Studio ist ein professioneller Proberaum in ruhiger Lage, ausgestattet mit einem Feurich Flügel 179 Dynamic II und einer hervorragenden Akustik. Es bietet alles für eine ungestörte Probe, von der Küche bis zum Bad. Das Studio befindet sich in unmittelbarer Nähe des Prater, ideal für die Pause. Buchen Sie jetzt unseren Proberaum und bringen Sie Ihre Musik auf das nächste Level.
   btn:
-    text: Buchen
-    url: https://promusica.zohobookings.com/#/customer/proberaum/
+    text: Kontakt
+    url: "/contact"
 ---
 
 Herzlich willkommen!
