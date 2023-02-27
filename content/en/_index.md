@@ -6,45 +6,48 @@ menu:
 - main
 - footerLinks
 weight: 10
-heading: Ihr proMúsica Studio
+heading: Your proMúsica Studio
 btn1:
-  text: Referenzen
+  text: References
   url: https://promusica.co.referenzen/
 btn2:
-  text: Technik
+  text: Equipment
   url: https://promusica.co/referenzen/
 cardsTitle: Services
 cards:
 - title: Guitar lessons
   img: /img/gitarrenunterricht.jpg
-  text: Ich biete Unterricht für Anfänger bis Fortgeschrittene und vermittel Techniken, Übungen, Tagesabläufe und ein umfangreiches Repertoire. Das proMusica Studio bietet eine Reihe von Möglichkeiten, deine Fähigkeiten zu verbessern, einschließlich Aufnahmeoptionen, einer sehr guten Akustik und einem äußerst ruhigen Unterrichtsraum. Komm und starte dein Gitarrenabenteuer bei proMúsica Studio!
+  text: I offer lessons for beginners to advanced students and teach techniques, exercises, daily routines, and an extensive repertoire. The proMúsica Studio offers a number of ways to improve your skills, including recording options, great acoustics, and an extremely quiet classroom. Come and start your guitar adventure at proMúsica Studio!!
   btn:
     text: Buchen
     url: https://promusica.zohobookings.com/#/customer/gitarrenunterricht/
-- title: Podcast oder Tonaufnahme
+- title: Podcast or recording
   img: /img/placeholder2.jpg
-  text: Erreichen Sie professionelle Podcast-Qualität mit proMusica - dem perfekten Studio für Ihre Aufnahmen. Mit der besten Akustik, hochwertigen Mikrofonen und state-of-the-art Software und Hardware, sorgen wir für eine makellose Klangqualität. In unserem ruhigen Studio können Sie sich voll und ganz auf Ihren Podcast konzentrieren. Lassen Sie sich von unseren erfahrenen Tontechnikern unterstützen und buchen Sie jetzt Ihre Aufnahme bei proMusica
+  text: Achieve professional podcast quality with proMusica - the perfect studio for your recordings. With the best acoustics, high-quality microphones and state-of-the-art software and hardware, we ensure flawless sound quality. In our quiet studio, you can fully concentrate on your podcast. Let our experienced sound engineers support you and book your recording at proMusica now.
   btn:
     text: contact
     url: "/contact"
-- title: Studio als Proberaum
+- title: Your rehearsal Studio
   img: /img/placeholder3.jpg
-  text: Das proMúsica Studio ist ein professioneller Proberaum in ruhiger Lage, ausgestattet mit einem Feurich Flügel 179 Dynamic II und einer hervorragenden Akustik. Es bietet alles für eine ungestörte Probe, von der Küche bis zum Bad. Das Studio befindet sich in unmittelbarer Nähe des Prater, ideal für die Pause. Buchen Sie jetzt unseren Proberaum und bringen Sie Ihre Musik auf das nächste Level.
+  text: The proMúsica Studio is a professional rehearsal room in a quiet location, equipped with a Feurich grand piano 179 Dynamic II and excellent acoustics. It offers everything for an undisturbed rehearsal, from the kitchen to the bathroom. The studio is located in the immediate vicinity of the Prater, ideal for a break. Book our rehearsal room now and take your music to the next level.
   btn:
     text: contact
     url: "/contact"
 ---
 
-Herzlich willkommen!
-<br> 
-proMúsica Studio bietet Musikern, Podcastern und Produzenten einen professionellen Ort zum 
-- Aufnehmen,
-- Produzieren von Ton- und Videoinhalten und zu
-- Proben
+Welcome to proMúsica!
 
-Ausgestattet mit einem **Feurich Flügel 179 Dynamic II** und einer guten Akustik, bietet das Studio eine ruhige Lage und alle Annehmlichkeiten für die Pause. 
-- Instrumentalunterricht wird ebenfalls angeboten. 
+proMúsica Studio offers musicians, podcasters and producers a professional place to 
+- **record**,
+- **producing sound and video content** and for
+- **rehearsals**
 
-Das Studio ist sehr nah am Prater, dem schönsten grünen Park in Wien und dem erneuerten und verbreiterten Erdberger Steg. Dies ist ideal für Foto- und Videoaufnahmen im Freien. Bis Bald! 
+Equipped with a **Feurich 179 Dynamic II grand piano** and great acoustics, the studio offers a quiet location and all the amenities you need for a break. 
+
+- **Instrumental lessons** are also offered. 
+
+The studio is very close to the Prater, the most beautiful green park in Vienna and the renewed and widened Erdberger Steg. This is ideal for outdoor photo and video shoots.<br> 
+See you soon!
+
 <!-- Links and Cross References - Use of ref and relref -->
 <!-- [Gitarrenunterricht]({{< ref "serviceleistung/gitarrenunterricht" >}} "Gitarrenunterricht") -->

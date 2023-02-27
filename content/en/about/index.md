@@ -14,6 +14,6 @@ weight: 30
 private: false
 ---
 
-Ich bin Diplom-Absolvent der Konzertgitarre von der MDW, der ehemaligen Hochschule für Musik und darstellende Kunst in Wien, unter der Leitung von Professor Walter Würdinger. Nach einer langen Pause habe ich beschlossen, meine Leidenschaft für die Gitarre wieder aufzunehmen und dabei das proMúsica Studio geplant, ausgebaut und zum Klingen gebracht. Ich habe das Wissen, das ich in den letzten Jahren über Linux und die Open-Source-Bewegung erworben habe, angewendet, um Hard- und Software zu installieren und zu konfigurieren sowie die Akustik im Raum angepasst.
+I am a graduate of the concert guitar from the MDW, the former University of Music and Performing Arts in Vienna, under the direction of Professor Walter Würdinger. After a long break, I decided to resiled my passion for the guitar and planed and developed the proMúsica Studio. I applied the knowledge I've gained over the past few years about Linux and the open source movement to install and configure hardware and software, as well as adjust the acoustics in the room.
 
-Ich bin stolz darauf, ein Studio zu haben, das auf Open-Source-Technologien aufbaut, was mir ermöglicht, meine Musik, meine Schüler und meine Kunden mit erweiterten Möglichkeiten zu versorgen.
+I'm proud to have a studio built on open source technologies, which allows me to provide my music, my students, and my clients with expanded capabilities.
