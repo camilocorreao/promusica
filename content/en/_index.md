@@ -6,35 +6,45 @@ menu:
 - main
 - footerLinks
 weight: 10
-heading: Your proMúsica Studio
+heading: Ihr proMúsica Studio
 btn1:
-  text: Bootstrap 5 Docs
-  url: https://getbootstrap.com/
+  text: Referenzen
+  url: https://promusica.co.referenzen/
 btn2:
-  text: Hugo Docs
-  url: https://gohugo.io/
-cardsTitle: Our Services
+  text: Technik
+  url: https://promusica.co/referenzen/
+cardsTitle: Services
 cards:
-- title: Card 1 Title
-  img: /img/placeholder1.jpg
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto modi placeat corrupti tempora quod quidem praesentium impedit. Rem, sapiente eius?
+- title: Guitar lessons
+  img: /img/gitarrenunterricht.jpg
+  text: Ich biete Unterricht für Anfänger bis Fortgeschrittene und vermittel Techniken, Übungen, Tagesabläufe und ein umfangreiches Repertoire. Das proMusica Studio bietet eine Reihe von Möglichkeiten, deine Fähigkeiten zu verbessern, einschließlich Aufnahmeoptionen, einer sehr guten Akustik und einem äußerst ruhigen Unterrichtsraum. Komm und starte dein Gitarrenabenteuer bei proMúsica Studio!
   btn:
-    text: Button 1 text
-    url: "#"
-- title: Card 2 Title
+    text: Buchen
+    url: https://promusica.zohobookings.com/#/customer/gitarrenunterricht/
+- title: Podcast oder Tonaufnahme
   img: /img/placeholder2.jpg
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto modi placeat corrupti tempora quod quidem praesentium impedit. Rem, sapiente eius?
+  text: Erreichen Sie professionelle Podcast-Qualität mit proMusica - dem perfekten Studio für Ihre Aufnahmen. Mit der besten Akustik, hochwertigen Mikrofonen und state-of-the-art Software und Hardware, sorgen wir für eine makellose Klangqualität. In unserem ruhigen Studio können Sie sich voll und ganz auf Ihren Podcast konzentrieren. Lassen Sie sich von unseren erfahrenen Tontechnikern unterstützen und buchen Sie jetzt Ihre Aufnahme bei proMusica
   btn:
-    text: Button 2 text
-    url: "#"
-- title: Card 3 Title
+    text: contact
+    url: "/contact"
+- title: Studio als Proberaum
   img: /img/placeholder3.jpg
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto modi placeat corrupti tempora quod quidem praesentium impedit. Rem, sapiente eius?  Architecto modi placeat corrupti tempora quod quidem praesentium impedit. Rem, sapiente eius?
+  text: Das proMúsica Studio ist ein professioneller Proberaum in ruhiger Lage, ausgestattet mit einem Feurich Flügel 179 Dynamic II und einer hervorragenden Akustik. Es bietet alles für eine ungestörte Probe, von der Küche bis zum Bad. Das Studio befindet sich in unmittelbarer Nähe des Prater, ideal für die Pause. Buchen Sie jetzt unseren Proberaum und bringen Sie Ihre Musik auf das nächste Level.
   btn:
-    text: Button 3 text
-    url: "#"
+    text: contact
+    url: "/contact"
 ---
 
-I invite you to join the proMúsica Studio. You can book guitar lessons, create your podcast project, book a music recording appointment or book the studio for a rehearsals. Please read more about our services or you mai contact me.
-<br>
-Warm welcome!
+Herzlich willkommen!
+<br> 
+proMúsica Studio bietet Musikern, Podcastern und Produzenten einen professionellen Ort zum 
+- Aufnehmen,
+- Produzieren von Ton- und Videoinhalten und zu
+- Proben
+
+Ausgestattet mit einem **Feurich Flügel 179 Dynamic II** und einer guten Akustik, bietet das Studio eine ruhige Lage und alle Annehmlichkeiten für die Pause. 
+- Instrumentalunterricht wird ebenfalls angeboten. 
+
+Das Studio ist sehr nah am Prater, dem schönsten grünen Park in Wien und dem erneuerten und verbreiterten Erdberger Steg. Dies ist ideal für Foto- und Videoaufnahmen im Freien. Bis Bald! 
+<!-- Links and Cross References - Use of ref and relref -->
+<!-- [Gitarrenunterricht]({{< ref "serviceleistung/gitarrenunterricht" >}} "Gitarrenunterricht") -->

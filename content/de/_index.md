@@ -11,7 +11,7 @@ btn1:
   text: Referenzen
   url: https://promusica.co.referenzen/
 btn2:
-  text: Technik
+  text: technische Ausrüstung
   url: https://promusica.co/referenzen/
 cardsTitle: Serviceleistung
 cards:

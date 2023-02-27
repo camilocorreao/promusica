@@ -20,6 +20,7 @@ languages:
         weight: 40
         params:
           divider: true
+    weight: 10
       # - identifier: shop
       #   name: Shop
       #   weight: 60
@@ -30,12 +31,28 @@ languages:
   en:
     contentDir: content/en
     languageName: English
-    menu: main
+    menu:
+      main:
+      - identifier: serviceleistung
+        name: Services
+        weight: 20
+      - parent: serviceleistung
+        weight: 40
+        params:
+          divider: true
     weight: 20
   es:
     contentDir: content/es
     languageName: Español
-    menu: main
+    menu:
+      main:
+      - identifier: services
+        name: services
+        weight: 20
+      - parent: services
+        weight: 40
+        params:
+          divider: true
     weight: 30
 # controls number of pages displayed on list pages
 paginate: 6

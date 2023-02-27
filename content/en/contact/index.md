@@ -6,7 +6,7 @@ menu:
 - main
 - footerLinks
 - footerKontaktdetails
-weight: 40
+weight: 40https://promusica.zohobookings.com/#/customer/proberaum/
 type: contact
 # google map url
 gmapURL: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2659.1747180709394!2d16.4011965!3d48.2032505!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d076a62abfdc9%3A0x8a0a299a1eb28db4!2sB%C3%B6cklinstra%C3%9Fe%20100%2C%201020%20Wien!5e0!3m2!1sde!2sat!4v1666083892017!5m2!1sde!2sat" 
