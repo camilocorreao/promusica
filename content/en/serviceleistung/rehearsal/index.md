@@ -8,7 +8,7 @@ menu:
         parent: serviceleistung
         weight: 40
 categories: [serviceleistung, proberaum]
-heading: Proberaum
+heading: Rehearsal
 btn1:
   text: Contact
   url: "/contact"

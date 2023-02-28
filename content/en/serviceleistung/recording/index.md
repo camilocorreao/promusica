@@ -7,7 +7,7 @@ menu:
         parent: serviceleistung
         weight: 30
 categories: [serviceleistung, recording, aufnehmen]
-heading: Tonaufnahme
+heading: Recording
 btn1:
  text: Buchen
  url: https://promusica.zohobookings.com/#/customer/proberaum/
