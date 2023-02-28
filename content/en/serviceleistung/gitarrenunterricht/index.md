@@ -26,12 +26,3 @@ I offer guitar lessons for beginners through to advanced players, and my teachin
 One of my top priorities is creating a comfortable learning environment, which is why I've designed my teaching space to help you focus solely on your guitar playing. The excellent acoustics and recording options also allow you to document and reflect on your progress.
 
 So what are you waiting for? Get in touch with me today and let me help you achieve your goal of becoming a great guitar player!
-Möchtest du klassische Gitarrenmusik erlernen und dein Talent in diesem Bereich verbessern? Dann bist du bei proMúsica Studio genau richtig!
-
-Unser professionelles Gitarrenunterricht-Angebot konzentriert sich auf Technik, Übungsplan und Repertoire. Wir helfen dir dabei, deine Fähigkeiten zu verbessern und das beste aus deinem Spiel herauszuholen. Wir legen auch Wert darauf, dass wir Musik, die du gerne hörst, in das Repertoire aufnehmen, um deinen Lernprozess zu fördern.
-
-Unser Fokus liegt auf lateinamerikanischer Gitarrenmusik und Rhythmen. Wir sind leidenschaftliche Anhänger dieser Art von Musik und möchten dir helfen, sie zu meistern. Du wirst in der Lage sein, die Kunst des Flamenco, Bossa Nova und Samba zu beherrschen und dein Wissen in deinem Spiel anzuwenden.
-
-Wir bieten auch Aufnahmemöglichkeiten an, damit du deine Fortschritte hören und beurteilen kannst. Du wirst erstaunt sein, wie weit
-
-
