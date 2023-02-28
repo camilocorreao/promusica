@@ -17,9 +17,9 @@ cardsTitle: Services
 cards:
 - title: Guitar lessons
   img: /img/gitarrenunterricht.jpg
-  text: I offer lessons for beginners to advanced students and teach techniques, exercises, daily routines, and an extensive repertoire. The proMúsica Studio offers a number of ways to improve your skills, including recording options, great acoustics, and an extremely quiet classroom. Come and start your guitar adventure at proMúsica Studio!!
+  text: At proMúsica Studio, we provide lessons for everyone from beginner to advanced guitarists. Our teaching methods include techniques, exercises, daily routines and an extensive repertoire. We have all the tools you need to improve your skills, such as recording options, excellent acoustics and a peaceful classroom atmosphere. Start your guitar journey today with proMúsica Studio!
   btn:
-    text: Buchen
+    text: Book a class
     url: https://promusica.zohobookings.com/#/customer/gitarrenunterricht/
 - title: Podcast or recording
   img: /img/placeholder2.jpg
