@@ -13,7 +13,7 @@ images:
 categories: [serviceleistung, podcast]
 heading: Podcast
 btn1:
- text: Buchen
+ text: Kontakt
  url: https://promusica.zohobookings.com/#/customer/proberaum/
 ---
 

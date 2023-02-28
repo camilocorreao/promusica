@@ -17,11 +17,11 @@ btn1:
  url: https://promusica.zohobookings.com/#/customer/proberaum/
 ---
 
-Suchen Sie nach dem perfekten Studio für die Realisierung Ihres Podcasts? Dann sind Sie bei proMúsica genau richtig! Wir bieten Ihnen die **beste Akustik** und **hochwertige Mikrophone**, um Ihre Stimme klar und deutlich zu vermitteln. Unsere **state-of-the-art Software und Hardware** sorgen für eine makellose Qualität.
+Looking for the perfect studio to bring your podcast to life? Look no further than proMúsica! We offer the **best acoustics** and **high-quality microphones** to ensure your voice is clear and crisp. Our **state-of-the-art software and hardware** ensure flawless quality.
 
-Aber das ist noch lange nicht alles. Unser Studio ist absolut ruhig, sodass Sie sich voll und ganz auf Ihren Podcast konzentrieren können. Keine störenden Geräusche, keine Ablenkungen – **nur Sie und Ihre Stimme**.
+But that's not all. Our studio is **completely quiet**, so you can fully concentrate on your podcast. No distracting noises, no distractions - **just you and your voice**.
 
-Wir freuen uns auf Ihren Besuch und darauf, Ihnen das bestmögliche Ergebnis zu liefern!
+We look forward to your visit and delivering the best possible result for you!
 
 <!-- Jedes Projekt ist anders. Daher ist es am besten, uns eine Idee davon zu geben, was Sie sich vorstellen, damit wir einen auf Sie zugeschnittenen Vorschlag und eine Kostenkalkulation erstellen können, die Ihnen die effizienteste und kostengünstigste Lösung bietet.
 

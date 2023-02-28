@@ -10,8 +10,12 @@ menu:
 categories: [serviceleistung, proberaum]
 heading: Proberaum
 btn1:
-  text: Buchen
-  url: https://promusica.zohobookings.com/#/customer/proberaum/
+  text: Contact
+  url: "/contact"
 ---
 
-Das proMúsica Studio ist ein professioneller Proberaum in ruhiger Lage, ausgestattet mit einem Feurich Flügel 179 Dynamic II und einer hervorragenden Akustik. Es bietet alles für eine ungestörte Probe, von der Küche bis zum Bad. Das Studio befindet sich in unmittelbarer Nähe des Prater, ideal für die Pause. Buchen Sie jetzt unseren Proberaum und bringen Sie Ihre Musik auf das nächste Level.
+The proMúsica Studio, the perfect place for your rehearsals! Our rehearsal room is equipped with a **Feurich Flügel 179 Dynamic II**, which is regularly tuned and maintained to provide you with the best possible sound experience. The acoustics in our space are excellent and ensure optimal sound quality during your rehearsals.
+
+Our location is very quiet, allowing you to work with concentration. In addition, we offer everything you need for a break, including a **kitchen and a bathroom**. Nearby, you will find the **Prater**, one of the most beautiful green parks in Vienna, as well as the **Erdberger Steg**. These places are ideal for photo and video shoots and offer a wonderful opportunity to showcase your band.
+
+If you need an **accompanist**, we can arrange one for you. At our studio, you will find everything you need for a successful rehearsal. Book your rehearsal space now at proMúsica Studio and enjoy a perfect environment for your music!

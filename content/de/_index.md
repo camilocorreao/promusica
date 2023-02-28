@@ -23,7 +23,7 @@ cards:
     url: https://promusica.zohobookings.com/#/customer/gitarrenunterricht/
 - title: Podcast oder Tonaufnahme
   img: /img/placeholder2.jpg
-  text: Erreichen Sie professionelle Podcast-Qualität mit proMusica - dem perfekten Studio für Ihre Aufnahmen. Mit der besten Akustik, hochwertigen Mikrofonen und state-of-the-art Software und Hardware, sorgen wir für eine makellose Klangqualität. In unserem ruhigen Studio können Sie sich voll und ganz auf Ihren Podcast konzentrieren. Lassen Sie sich von unseren erfahrenen Tontechnikern unterstützen und buchen Sie jetzt Ihre Aufnahme bei proMusica
+  text: Erreichen Sie professionelle Podcast-Qualität mit proMúsica - dem perfekten Studio für Ihre Aufnahmen. Mit der besten Akustik, hochwertigen Mikrofonen und state-of-the-art Software und Hardware, sorgen wir für eine makellose Klangqualität. In unserem ruhigen Studio können Sie sich voll und ganz auf Ihren Podcast konzentrieren. Lassen Sie sich von unseren erfahrenen Tontechnikern unterstützen und buchen Sie jetzt Ihre Aufnahme bei proMusica
   btn:
     text: Kontakt
     url: "/contact"

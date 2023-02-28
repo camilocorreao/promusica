@@ -18,8 +18,12 @@ btn2:
   url: https://promusica.co/referenzen/
 ---
 
-Ich biete Unterricht für Anfänger bis Fortgeschrittene und vermittel Techniken, Übungen, Tagesabläufe und ein umfangreiches Repertoire.
+Bist du schon lange davon begeistert, Gitarre spielen zu lernen? Oder hast du vielleicht schon einige Grundlagen erworben und möchtest dein Können verbessern? Dann bist du bei mir genau richtig!
 
-Das proMúsica Studio bietet eine Reihe von Möglichkeiten, deine Fähigkeiten zu verbessern, einschließlich Aufnahmeoptionen, einer sehr guten Akustik und einem äußerst ruhigen Unterrichtsraum. Komm und starte dein Gitarrenabenteuer bei proMúsica Studio!
+Ich biete Gitarrenunterricht für Anfänger bis Fortgeschrittene an. Mein Unterricht ist individuell auf deine Bedürfnisse und Fähigkeiten abgestimmt. Dabei vermittle ich dir nicht nur Techniken und Übungen, sondern auch wertvolle Tagesabläufe und ein umfangreiches Repertoire.
+
+Besonders wichtig ist mir dabei eine angenehme Lernatmosphäre. Deshalb habe ich meinen Unterrichtsraum so gestaltet, dass du dich voll und ganz auf das Gitarrespielen konzentrieren kannst. Die gute Akustik und die Aufnahmeoption ermöglichen es dir zudem, deine Fortschritte zu dokumentieren und zu reflektieren.
+
+Also worauf wartest du noch? Melde dich bei mir und ich helfe dir dabei, dein Ziel zu erreichen und ein richtig guter Gitarrenspieler zu werden!
 
 
