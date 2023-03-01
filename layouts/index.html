@@ -78,7 +78,7 @@
                   <header>
                     <h3 class="h5 card-title">{{ .title }}</h3>
                   </header>
-                  <p class="card-text">{{ .text }}</p>
+                  <p class="card-text">{{ .text | markdownify}}</p>
                   {{ with .btn }}
                   {{ if and .url .text }}
                   {{/*  <a href="{{ .url1 }}" class="btn btn-primary mt-auto">{{ .text }}</a>  */}}
