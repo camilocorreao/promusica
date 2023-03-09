@@ -13,8 +13,8 @@ images:
 categories: [serviceleistung, podcast]
 heading: Podcast
 btn1:
- text: Buchen
- url: https://promusica.zohobookings.com/#/customer/proberaum/
+ text: Contact
+ url: "/en/contact"
 ---
 
 Looking for the perfect studio to bring your podcast to life? Look no further than proMúsica! We offer the **best acoustics** and **high-quality microphones** to ensure your voice is clear and crisp. Our **state-of-the-art software and hardware** ensure flawless quality.

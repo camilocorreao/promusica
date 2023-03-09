@@ -11,7 +11,7 @@ categories: [serviceleistung, proberaum]
 heading: Rehearsal
 btn1:
   text: Contact
-  url: "/contact"
+  url: "/en/contact"
 ---
 
 The proMúsica Studio, the perfect place for your rehearsals! Our rehearsal room is equipped with a **Feurich Flügel 179 Dynamic II**, which is regularly tuned and maintained to provide you with the best possible sound experience. The acoustics in our space are excellent and ensure optimal sound quality during your rehearsals.
