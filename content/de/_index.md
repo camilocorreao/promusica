@@ -12,7 +12,7 @@ btn1:
   url: https://promusica.co.referenzen/
 btn2:
   text: technische Ausrüstung
-  url: https://promusica.co/referenzen/
+  url: /products/product1
 cardsTitle: Serviceleistung
 cards:
 - title: Gitarrenunterricht
