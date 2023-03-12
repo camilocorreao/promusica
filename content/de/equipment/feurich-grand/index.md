@@ -10,7 +10,7 @@ weight: 20
 
 Ausgewählt von unser pianist und korrepetitor Sergio Posada und unser Klavierstimmer Sibin Slatkovic.
 
-Wir begleite Ihnen auch bei der Auswahl Ihren Feurich Instrumentes.
+Wir begleiten Ihnen auch bei der Auswahl Ihr Feurich Instrumenten.
 Ob Flügel oder kompaktes Piano: Genießen Sie den präzisen Anschlag und den nuancenreichen Klang. Erfahren Sie, wie sich Leidenschaft anhört, von Pianissimo bis Fortissimo, von den tiefen Bässen bis in die höchsten Höhen.
-Herzlich willkommen bei FEURICH.
+Herzlich willkommen bei proMúsica & FEURICH.
 
