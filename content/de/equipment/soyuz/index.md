@@ -8,4 +8,4 @@ heading: Soyuz Microphones
 weight: 30
 ---
 
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste consectetur repellat eius ratione nulla sint sapiente tenetur? Optio, dolores sunt.
+Ein Hersteller für Boutique-Mikrofone, wurde 2013 vom US-amerikanischen Musiker David Arthur Brown sowie dem russischen Unternehmer Pavel Bazdyrev gegründet. Das Wort „Soyuz“ kommt aus dem Russischen und bedeutet „Vereinigung“ oder auch „Allianz“. Und der Name ist Programm: Hier vereinen sich innovative Ingenieurs- und Fertigungskompetenz, modernes Design, hohe Qualitätskontrollen und ein cleveres Marketing. Bei Soyuz Microphones entstehen ausschließlich eigene und originelle Designs, woraus der individuelle Klangcharakter hervorgeht, der die High-End-Mikrofone von Soyuz wiederum zur Besonderheit macht. Sämtliche Geräte werden mittels klassischer Fertigungsmethoden per Hand in den eigenen Werken in Russland hergestellt. Zudem werden alle Produkte laufend weiterentwickelt.

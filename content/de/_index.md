@@ -9,10 +9,10 @@ weight: 10
 heading: Ihr proMúsica Studio
 btn1:
   text: Referenzen
-  url: https://promusica.co.referenzen/
+  url: /referenzen/
 btn2:
   text: technische Ausrüstung
-  url: /products/product1
+  url: /equipment/
 cardsTitle: Serviceleistung
 cards:
 - title: Gitarrenunterricht
