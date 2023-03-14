@@ -1,6 +1,6 @@
 ---
 title: Über mich
-slug: Über mich
+slug: über mich
 date: 2021-11-23T21:18:08+11:00
 draft: false
 subtitle: Musikalische Innovation durch Technologie und Open-Source-Expertise
