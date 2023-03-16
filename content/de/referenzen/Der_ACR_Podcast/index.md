@@ -4,6 +4,8 @@ date: 2023-03-11T21:17:10+11:00
 draft: false
 categories: [referenzen]
 description: Hier reden wir über Begriffe, Prozesse, Rahmenbedingungen und Herausforderungen rund um die Themen Forschung und Innovation und ihre Bedeutung für die Wirtschaft.
+featured_image: /img/20220428_ACR_Podcast_54-1680x1118.jpg
+images: [20220428_ACR_Podcast_54-1680x1118.jpg]
 btn1:
   text:  Tonqualität anhören
   url: https://main.podigee-cdn.net/media/podcast_55313_rundum_forschung_episode_772328_folge_1_interdisziplinaritat.mp3?v=1654620007&source=website

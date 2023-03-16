@@ -1,7 +1,7 @@
 {{ range .Site.RegularPages | first 5 }}
-<h2><a href="{{ .RelPermalink }}"> {{ .Title }}</a></h2>
+<h2><a href="{{ .RelPermalink }}"> {{ .Title}}</a></h2>
 <h3>{{ .Date.Format "Jan 02, 2006" }}</h3>
-{{ .Content}}
+{{ .Content }}
 <br>
 {{ if .Truncated }}
 <a href="{{ .RelPermalink }}">Read more...</a>

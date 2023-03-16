@@ -1,11 +1,15 @@
 <div class="container">
-<nav class="navbar navbar-expand-lg bg-light">
-  <div class="container-fluid">
-    <a class="navbar-brand me-5" href="/">
+  <div class="p-2 g-col-6">
+    <a class="navbar-brand mt-10 " href="/">
       {{ $image := resources.Get "images/logo.png" }}
-      {{ $image := $image.Resize "200x" }}
+      {{ $image := $image.Resize "250x" }}
       <img src="{{ $image.RelPermalink }}">
     </a>
+    <hr>
+  </div>
+<nav class="navbar navbar-expand-lg bg-light">
+  <div class="container-fluid">
+
     <button class="navbar-toggler" type="button" 
       data-bs-toggle="collapse" 
       data-bs-target="#navbarSupportedContent" 

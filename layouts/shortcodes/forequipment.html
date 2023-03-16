@@ -1,0 +1,9 @@
+{{ range .Site.RegularPages }}
+<article>
+<h2><a href="{{ .RelPermalink }}"> {{ .Title }}</a></h2>
+{{ .Summary }}
+<br>
+</article>
+<hr>
+{{ end }}
+
