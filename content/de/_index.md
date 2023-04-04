@@ -16,7 +16,7 @@ btn2:
 cardsTitle: Serviceleistung
 cards:
 - title: Gitarrenunterricht
-  img: /img/gitarrenunterricht.jpg
+  img: /img/1_gitarrenunterricht.jpg
   text: Ich biete Unterricht für Anfänger bis Fortgeschrittene und vermittel Techniken, Übungen, Tagesabläufe und ein umfangreiches Repertoire. Das proMusica Studio bietet eine Reihe von Möglichkeiten, deine Fähigkeiten zu verbessern, einschließlich Aufnahmeoptionen, einer sehr guten Akustik und einem äußerst ruhigen Unterrichtsraum. Ich biete meinen **30 Minuten kostenlosen Gitarrenunterricht** zum Kennenlernen an. Komm und starte dein Gitarrenabenteuer bei proMúsica Studio!
   btn:
     text: Buchen
@@ -38,12 +38,12 @@ cards:
 Herzlich willkommen!
 <br> 
 proMúsica Studio bietet Musikern, Podcastern und Produzenten einen professionellen Ort zum 
-- Aufnehmen,
-- Produzieren von Ton- und Videoinhalten und zu
-- Proben
+- **Aufnehmen**,
+- **Produzieren von Ton- und Videoinhalten** und zu
+- **Proben**
 
 Ausgestattet mit einem **Feurich Flügel 179 Dynamic II** und einer guten Akustik, bietet das Studio eine ruhige Lage und alle Annehmlichkeiten für die Pause. 
-- Instrumentalunterricht wird ebenfalls angeboten. 
+- **Instrumentalunterricht** wird ebenfalls angeboten. 
 
 Das Studio ist sehr nah am Prater, dem schönsten grünen Park in Wien und dem erneuerten und verbreiterten Erdberger Steg. Dies ist ideal für Foto- und Videoaufnahmen im Freien. Bis Bald! 
 <!-- Links and Cross References - Use of ref and relref -->
