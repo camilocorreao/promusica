@@ -8,14 +8,13 @@ heading: Das proMúsica Rack
 weight: 20
 images: [4_179_Detail_9_lid-3_web.jpg]
 ---
-
-Komponenten:
-Auser die gengisten Verbindungskomponenten sind in unser Rack volgende zu finden:
+Ausser der genginsten Verbindungs-komponenten sind in unser Rack folgende zu finden:
 <br>
-Server 1
-- Workstation 1
-- Backupsystem 
-- Facusrite Sound interface
+- Backup-Server 1, 
+- Workstation 1, 
+- Workstation 2, 
+- Focusrite Claret8 USB Sound interface. 
+<br>
+Es handelt sich hier um ein selbsgebautes Business-lab Server-Rack für reibungslosen Ton und Video-Aufnahmen. Ich gehe mit Ihnen gerne mehr ins Detail.
 
-Es handelt sich hier um ein selbsgebautes Business-lab Server-Rack für den gereuschlossen und reibungslosen Ton und Video-Aufnahmen.
 

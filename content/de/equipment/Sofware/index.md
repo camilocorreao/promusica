@@ -8,11 +8,12 @@ heading: Open source software
 weight: 20
 images: [4_179_Detail_9_lid-3_web.jpg]
 ---
+<ul>
+Digital Audio Workstation (DAW): Ardour
+<br>
+Video Bearbeitung: Davinci Resolve
+<br>
+Backup Server: Truenas
+<br>
 
-Komponenten:
-Auser die gengisten Verbindungs-komponenten sind in unser Rack volgende zu finden:
-<br>
-Server 1, Workstation 1, Backupserver, Focusrite Sound interface. 
-<br>
-Es handelt sich hier um ein selbsgebautes Business-lab Server-Rack für reibungslosen Ton und Video-Aufnahmen. Ich gehe mit Ihnen gerne mehr ins Detail.
 
