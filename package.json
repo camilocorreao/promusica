@@ -1,7 +1,7 @@
 {
-  "name": "promusica",
+  "name": "proMúsica",
   "version": "1.0.0",
-  "description": "promusica from Online course - seo and hugo implementation",
+  "description": "proMúsica Studio ein Ort für Klang und Ruhe",
   "private": "true",
   "main": "index.js",
   "scripts": {
